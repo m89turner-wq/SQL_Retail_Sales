@@ -10,10 +10,10 @@ This project showcased a range of SQL techniques I used to explore, clean, and a
 
 ## Objectives
 
-1. **Created and populated a structured retail sales database using SQL.
-2. **Cleaned and validated the dataset to ensure consistency and integrity.
-3. **Explored the data through descriptive queries and summary statistics.
-4. **Answered targeted business questions to uncover trends, customer behavior, and category performance.
+1. **Created and populated a structured retail sales database using SQL.**
+2. **Cleaned and validated the dataset to ensure consistency and integrity.**
+3. **Explored the data through descriptive queries and summary statistics.**
+4. **Answered targeted business questions to uncover trends, customer behavior, and category performance.**
 
 ## Project Structure
 
